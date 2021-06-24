@@ -1,4 +1,4 @@
-// 311408264 Shlomi Ben-Shushan
+// Shlomi Ben-Shushan
 
 #include <stdbool.h>
 
