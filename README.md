@@ -8,22 +8,27 @@ We are given a code snippet of another programmer and our goal is to optimize hi
 
 Note: The only file we were allowed to modify is _c.myfunction_ only.
 
-## Files
+## Main Files
+
+**myfunction_ORIGINAL.c** - This is the code file we received which was programmed by another programmer. This code gets an image and applies a filter to it successfully, but in an unlikely time.
+
+* the suffix "\_ORIGINAL" added later to its name to differentiate  between the original and the improved one.
+
+**myfunction.c** - This is the improved version of the code, which applies the same filter but does it more than 82% faster.
 
 
+## Optimizations Methods
 
-
-
-## Optimizations
-
-
-
-## Tests
-
+1. Loop unroll.
+2. Complex calculations avoidance.
+3. Code motion.
+4. Use macro-functions.
+5. Reduce functions calls.
+6. Use pointers.
 
 
 ## IDE and Tools
 
-
-
-## Notes
+- Visual Studio Code
+- Notepad++
+- Bash (for test-scriptss)
