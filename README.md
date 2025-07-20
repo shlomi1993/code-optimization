@@ -1,4 +1,4 @@
-# CodeOptimization
+# Code Optimization
 
 This repository documents improvments of a code snippet allegedly written by another programmer and how to make code optimizations.
 This project was the last assignment in Computer Structure course I took as part of Computer Science degree in Bar-Ilan university.
